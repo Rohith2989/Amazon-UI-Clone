@@ -1,0 +1,144 @@
+* {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  border: border-box;
+}
+
+.navbar {
+  height: 60px;
+  background-color: #0f1111;
+  color: white;
+  align-items: center;
+}
+
+.navbar {
+  display: flex;
+  border: transparent solid 1px;
+  justify-content: space-evenly;
+}
+
+.border {
+  border: transparent solid 1px;
+}
+
+.border:hover {
+  border: white solid 1px;
+}
+
+.nav-logo {
+  height: 50px;
+  width: 100px;
+}
+
+.logo {
+  height: 50px;
+  width: 100%;
+  padding-top: 1rem;
+  text-align: center;
+}
+
+.add-f {
+  font-size: 1rem;
+  color: #cccccc;
+}
+
+.add-icon {
+  display: flex;
+  align-items: center;
+}
+
+.search {
+  display: flex;
+  justify-content: space-evenly;
+  border-radius: 4px;
+  width: 1400px;
+  height: 40px;
+  margin-left: 2rem;
+}
+.search-select {
+
+  padding: 2px;
+  border-bottom-left-radius: 4px;
+border-top-left-radius: 4px;
+  text-align: center;
+}
+
+.search-icon {
+  background-color: #f08804;
+border-bottom-right-radius: 4px;
+border-top-right-radius: 4px;
+  padding: 10px;
+}
+
+.place {
+  width: 100%;
+  font-size:1rem;
+}
+
+
+.lang{
+    display: flex;
+    margin-left: 10px;
+}
+
+.flag-input{
+    text-decoration: none;
+    background-color: #0f1111;
+    color: #ffffff;
+    border: none;
+}
+
+
+.acc-sel{
+    display:flex;
+
+}
+
+.acc-sel select{
+    text-decoration: none;
+    background-color: #0f1111;
+    color: #ffffff;
+    border: none;
+}
+
+.ret{
+    font-size: 0.8rem;
+}
+
+.icon-cart{
+font-size: 1.7rem;
+
+}
+
+.cart{
+    display: flex;
+}
+
+.cart-cont{
+padding-top: 8px;
+
+}
+
+.all
+{
+display: flex;
+background-color: #222a44;
+height: 35px;
+justify-content: space-evenly;
+
+
+}
+
+.all-all{
+    width: 20%;
+  border: transparent 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+
+}
+
+.all-all:hover{
+    border:solid white 1px;
+}
