@@ -300,3 +300,15 @@ color: #ffffff;
 }
 
 
+.ind
+{
+  width: 10%;
+height: 30px;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+border: #c4bebe solid 2px;
+color: #ffffff;
+
+}
