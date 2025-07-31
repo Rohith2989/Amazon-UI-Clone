@@ -1,4 +1,4 @@
-##Amazon-UI-Clone
+## Amazon-UI-Clone
 
 
 A lightweight, responsive clone of Amazon's homepage interface built with pure semantic HTML and vanilla CSS (Flexbox/Grid)
